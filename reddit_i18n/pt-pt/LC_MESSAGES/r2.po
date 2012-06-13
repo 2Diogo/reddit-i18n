@@ -140,7 +140,7 @@ msgstr "numero máximo de templates de flair atingido"
 
 #: r2/controllers/api_docs.py:17
 msgid "account"
-msgstr ""
+msgstr "conta"
 
 #: r2/controllers/api_docs.py:20 r2/templates/printablebuttons.html:71
 msgid "flair"
@@ -148,27 +148,27 @@ msgstr ""
 
 #: r2/controllers/api_docs.py:23
 msgid "links & comments"
-msgstr ""
+msgstr "links & comentários"
 
 #: r2/controllers/api_docs.py:26
 msgid "private messages"
-msgstr ""
+msgstr "mensagens privadas"
 
 #: r2/controllers/api_docs.py:29
 msgid "moderation"
-msgstr ""
+msgstr "moderação"
 
 #: r2/controllers/api_docs.py:32
 msgid "misc"
-msgstr ""
+msgstr "vários"
 
 #: r2/controllers/api_docs.py:35
 msgid "listings"
-msgstr ""
+msgstr "listagens"
 
 #: r2/controllers/api_docs.py:38
 msgid "search"
-msgstr ""
+msgstr "procurar"
 
 #: r2/controllers/api_docs.py:41 r2/lib/menus.py:102
 msgid "subreddits"
@@ -176,11 +176,11 @@ msgstr ""
 
 #: r2/controllers/api_docs.py:44
 msgid "users"
-msgstr ""
+msgstr "utilizadores"
 
 #: r2/controllers/api_docs.py:144
 msgid "api documentation"
-msgstr ""
+msgstr "documentação API"
 
 #: r2/controllers/buttons.py:200 r2/controllers/buttons.py:208
 msgid "reddit buttons"
@@ -223,11 +223,11 @@ msgstr "proibido (%(domain)s)"
 
 #: r2/controllers/error.py:118
 msgid "you are not allowed to do that"
-msgstr ""
+msgstr "não tens permissão para fazer isto"
 
 #: r2/controllers/error.py:125
 msgid "page not found"
-msgstr ""
+msgstr "página não encontrada"
 
 #: r2/controllers/error.py:126
 msgid "the page you requested does not exist"
@@ -510,7 +510,7 @@ msgstr "por favor confirme o formulário"
 
 #: r2/controllers/errors.py:97
 msgid "cannot perform this action via the API"
-msgstr ""
+msgstr "Não é possivel executar esta ação através da API"
 
 #: r2/controllers/front.py:124
 msgid "self service help"
@@ -518,27 +518,27 @@ msgstr ""
 
 #: r2/controllers/front.py:307
 msgid "no comments (yet)"
-msgstr ""
+msgstr "sem comentários (ainda)"
 
 #: r2/controllers/front.py:309
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "%d comentário ao todo "
 
 #: r2/controllers/front.py:311
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "TOP %d de comentários"
 
 #: r2/controllers/front.py:335
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "mostrar todos os %d comentários"
 
 #: r2/controllers/front.py:337
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "mostrar %d"
 
 #: r2/controllers/front.py:353
 msgid "create a reddit"
@@ -546,7 +546,7 @@ msgstr "crie um reddit"
 
 #: r2/controllers/front.py:355
 msgid "create a community"
-msgstr ""
+msgstr "criar uma comunidade"
 
 #: r2/controllers/front.py:428 r2/controllers/front.py:432
 #: r2/controllers/listingcontroller.py:671
@@ -556,15 +556,15 @@ msgstr "tudo"
 
 #: r2/controllers/front.py:438
 msgid "filter by action"
-msgstr ""
+msgstr "filtrar por acção"
 
 #: r2/controllers/front.py:440
 msgid "filter by moderator"
-msgstr ""
+msgstr "filtrar por moderador"
 
 #: r2/controllers/front.py:633 r2/lib/menus.py:143
 msgid "awards"
-msgstr ""
+msgstr "prémios"
 
 #: r2/controllers/front.py:663 r2/lib/menus.py:118
 msgid "related"
@@ -572,7 +572,7 @@ msgstr "relacionado"
 
 #: r2/controllers/front.py:681
 msgid "other discussions"
-msgstr ""
+msgstr "outras discussões"
 
 #: r2/controllers/front.py:701 r2/controllers/front.py:751
 msgid "search results"
@@ -580,7 +580,7 @@ msgstr "pesquisar resultados"
 
 #: r2/controllers/front.py:806
 msgid "seen it"
-msgstr ""
+msgstr "visto"
 
 #: r2/controllers/front.py:917 r2/templates/login.html:88
 #: r2/templates/loginformwide.html:44
@@ -591,11 +591,11 @@ msgstr "senha"
 
 #: r2/controllers/front.py:937 r2/controllers/front.py:953
 msgid "verify email"
-msgstr ""
+msgstr "verificar email"
 
 #: r2/controllers/front.py:983 r2/templates/loginformwide.html:51
 msgid "reset password"
-msgstr ""
+msgstr "redefinir senha"
 
 #: r2/controllers/front.py:1132 r2/controllers/post.py:162
 msgid "opt out"
@@ -603,37 +603,37 @@ msgstr ""
 
 #: r2/controllers/front.py:1132 r2/controllers/post.py:172
 msgid "welcome back"
-msgstr ""
+msgstr "Bem-vindo de novo!"
 
 #: r2/controllers/front.py:1162
 msgid "thanks"
-msgstr ""
+msgstr "obrigado"
 
 #: r2/controllers/front.py:1195 r2/controllers/front.py:1217
 #: r2/lib/menus.py:101 r2/templates/gold.html:84
 msgid "reddit gold"
-msgstr ""
+msgstr "Reddit Premium"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "boa tentativa"
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "O Reddit Premium foi entregue!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "Obrigado por comprar uma conta Premium do Reddit "
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
-msgstr ""
+msgstr "Obrigado por ter comprado créditos!"
 
 #: r2/controllers/ipn.py:460
 msgid ""
 "To spend them, visit [/gold](/gold) or your favorite person's userpage."
-msgstr ""
+msgstr "Para gastá-los, visite [/gold](/gold) ou então visite a página dos seus utilizadores favoritos"
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
@@ -642,7 +642,7 @@ msgstr ""
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "O teu presente para %s foi entregue."
 
 #: r2/controllers/listingcontroller.py:357
 msgid "newest submissions"
@@ -1238,7 +1238,7 @@ msgstr ""
 #. TRANSLATORS: This refers to the user's front page
 #: r2/lib/menus.py:331
 msgid "front"
-msgstr ""
+msgstr "principal"
 
 #: r2/lib/menus.py:430
 msgid "sorted by"
